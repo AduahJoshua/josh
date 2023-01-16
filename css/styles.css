@@ -1,0 +1,27 @@
+.navbar{
+    background-color: blue;
+    height: 20px;
+}
+
+.nav-link{
+    font-weight: bolder;
+    color: black;
+}
+
+.guy{
+    font-weight: bolder;
+}
+.hm{
+    height: 400px;
+}
+
+.footer{
+    height: 50px;
+    background-color: grey;
+    padding-top: 7px;
+    color: hotpink;
+}
+
+.obo{
+    background-color: yellow;
+}
